@@ -1,0 +1,16 @@
+auto	int
+break	long
+case	register
+char	return
+const	short
+continue	signed
+default	sizeof
+do	static
+double	struct
+else	switch
+enum	typedef
+extern	union
+float	unsigned
+for	void
+goto	volatile
+if	while
