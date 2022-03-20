@@ -1,7 +1,0 @@
-Tipos de dados	Exemplos de Constantes
-int	1	1200	- 24
-long int	3500L	- 34L	15L
-short int	10	- 12	98
-float	123.23F	0.5F	4.34e - 3F
-double	120.12	12345678	- 0.987321
-caractere	'x'	'a'	'1
